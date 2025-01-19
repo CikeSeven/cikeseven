@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @cikeseven
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# CikeSeven
 
-<!---
-cikeseven/cikeseven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+一名正在学习编程的大学生
+
+- 对 Python、Kotlin 和 Android 开发感兴趣。
+- 当前技术力很差
+- 正在努力提升编程能力，参与开源项目和学习新技术。
+
+欢迎来到我的 GitHub 主页
