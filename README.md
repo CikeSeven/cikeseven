@@ -7,3 +7,5 @@
 - 正在努力提升编程能力，参与开源项目和学习新技术。
 
 欢迎来到我的 GitHub 主页
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CikeSeven&layout=compact)
